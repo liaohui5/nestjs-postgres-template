@@ -1,0 +1,4 @@
+{
+  isDev: false,
+  DB_URL: "postgres://dev:root123456@db:5432/prod",
+}

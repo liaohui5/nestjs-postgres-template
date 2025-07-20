@@ -1,0 +1,13 @@
+.git
+.gitignore
+.prettierrc
+*.log
+*.md
+*.sh
+*.tar
+.DS_Store
+node_modules/
+.dist/
+build/
+logs/
+mysql/
